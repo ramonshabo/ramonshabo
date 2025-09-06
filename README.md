@@ -131,6 +131,7 @@ I love being able to use the best of technology to help people's lives.
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="Bun" width="40" height="40"/></a>&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/></a>&nbsp; 
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="vb" alt="vb" width="40" height="40"/></a>&nbsp; 

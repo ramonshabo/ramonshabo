@@ -7,7 +7,7 @@
   A passionate Full Stack Developer | Problem Solver | Tech Explorer | Architect of Scalable Solutions
 </h3>
 <!-- <h3 align="left">
-  Interested in AI, MES, ERP & e-commerce systems
+  Interested in AI, MES, ERP & e-commerce systems 1
 </h3> -->
 
 <div id="header" align="left">

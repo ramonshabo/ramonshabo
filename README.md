@@ -179,7 +179,7 @@ I love being able to use the best of technology to help people's lives.
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;
 </div>
 
-<!-- <h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
 <p align="center">
 <table align="center">
   <tr>
@@ -383,7 +383,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Next.js" />
       <br>Kubernetes
     </td>
     <td align="center" width="90">
@@ -416,6 +416,10 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="55" height="55" />
       <br>Prettier
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
+      <br>Prettier
+    </td>
   </tr>
 </table>
 </p>
@@ -446,4 +450,4 @@ I love being able to use the best of technology to help people's lives.
     <img src="https://github-profile-trophy.vercel.app/?username=smartcoder0310&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
   </a>
 </div>
-</div> -->
+</div>

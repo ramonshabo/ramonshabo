@@ -302,12 +302,12 @@ I love being able to use the best of technology to help people's lives.
       <br>Django
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55" alt="anaconda" />
+      <br>Anaconda
+    </td>
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="laravel" />
       <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
-      <br>D3.js
     </td>
   </tr>
 
@@ -424,6 +424,10 @@ I love being able to use the best of technology to help people's lives.
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="55" height="55" />
       <br>Raspberry
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
+      <br>D3.js
     </td>
   </tr>
 </table>

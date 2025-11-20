@@ -418,7 +418,11 @@ I love being able to use the best of technology to help people's lives.
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
-      <br>Prettier
+      <br>Nginx
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="55" height="55" />
+      <br>Raspberry
     </td>
   </tr>
 </table>

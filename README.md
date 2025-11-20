@@ -200,7 +200,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
       <br>Sass
     </td>
     <td align="center" width="90">
@@ -216,7 +216,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
       <br>Webpack
     </td>
     <td align="center" width="90">

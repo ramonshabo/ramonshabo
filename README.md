@@ -200,7 +200,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" height="45" />
       <br>Sass
     </td>
     <td align="center" width="90">
@@ -216,8 +216,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Three.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="45" height="45" />
+      <br>Webpack
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
@@ -431,7 +431,7 @@ I love being able to use the best of technology to help people's lives.
 <br>
 </div>
 
-<div align="center" >
+<!-- <div align="center" >
 <a  href="https://github.com/smartcoder0310">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
@@ -454,4 +454,4 @@ I love being able to use the best of technology to help people's lives.
     <img src="https://github-profile-trophy.vercel.app/?username=smartcoder0310&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
   </a>
 </div>
-</div>
+</div> -->

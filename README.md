@@ -111,7 +111,7 @@ I love being able to use the best of technology to help people's lives.
 ---
 -->
 
-### :hammer_and_wrench: Technologies, Languanges and Tools :
+
 <div>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
@@ -179,7 +179,8 @@ I love being able to use the best of technology to help people's lives.
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;
 </div>
 
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+<!-- <h1 align="center">💫:hammer_and_wrench: Technologies,🌟 Languanges and Tools :</h1> -->
+<div align="center"><h1> :hammer_and_wrench: Technologies, Languanges and Tools : </h1></div>
 <p align="center">
 <table align="center">
   <tr>

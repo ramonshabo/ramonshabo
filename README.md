@@ -224,10 +224,6 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" width="55" height="55" alt="laravel" />
       <br>Livewire
     </td>
-    <!-- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
-      <br>WordPress
-    </td> -->
   </tr>
 
   <tr>
@@ -282,8 +278,8 @@ I love being able to use the best of technology to help people's lives.
       <br>GraphQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=apollo" width="45" height="45" alt="Apollo" />
-      <br>Apollo
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="elasticsearch" />
+      <br>Elastic Search
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />

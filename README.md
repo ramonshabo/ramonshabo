@@ -225,7 +225,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Laravel
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=livewire" width="45" height="45" alt="laravel" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" width="55" height="55" alt="laravel" />
       <br>Livewire
     </td>
     <!-- <td align="center" width="90">

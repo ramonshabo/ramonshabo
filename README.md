@@ -279,7 +279,7 @@ I love being able to use the best of technology to help people's lives.
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="elasticsearch" />
-      <br>Elastic Search
+      <br>Elastic
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />

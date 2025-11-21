@@ -290,7 +290,7 @@ I love being able to use the best of technology to help people's lives.
       <br>RESTful API
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="50" height="50" />
       <br>FastAPI
     </td>
     <td align="center" width="90">

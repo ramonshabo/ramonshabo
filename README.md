@@ -330,8 +330,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Golang
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
-      <br>Actix
+      <img src="https://skillicons.dev/icons?i=bun" width="45" height="45" alt="bun" />
+      <br>Bun
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Next.js" />

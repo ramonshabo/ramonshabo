@@ -422,10 +422,10 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="55" height="55" />
       <br>Jest
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="55" height="55" />
       <br>Prettier
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" />
       <br>Nginx
@@ -433,6 +433,10 @@ I love being able to use the best of technology to help people's lives.
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="55" height="55" />
       <br>Raspberry
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino" />
+      <br>Arduino
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />

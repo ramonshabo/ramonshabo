@@ -369,12 +369,12 @@ I love being able to use the best of technology to help people's lives.
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="45" height="45" />
       <br>Redis
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="supabase" />
+      <br>Supabase
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />

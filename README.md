@@ -264,8 +264,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="angular" />
-      <br>Angular
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="nuxtjs" />
+      <br>Nuxt.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />

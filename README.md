@@ -112,7 +112,7 @@ I love being able to use the best of technology to help people's lives.
 -->
 
 
-<!-- <div>
+<div>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
@@ -177,7 +177,7 @@ I love being able to use the best of technology to help people's lives.
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;
-</div> -->
+</div>
 
 <!-- <h1 align="center">💫:hammer_and_wrench: Technologies,🌟 Languanges and Tools :</h1> -->
 <div align="center"><h1> :hammer_and_wrench: Technologies, Languanges and Tools : </h1></div>
@@ -192,10 +192,10 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
@@ -220,10 +220,18 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
       <br>Webpack
     </td>
-    <td align="center" width="90">
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="laravel" />
+      <br>Laravel
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=livewire" width="45" height="45" alt="laravel" />
+      <br>Livewire
+    </td>
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
       <br>WordPress
-    </td>
+    </td> -->
   </tr>
 
   <tr>
@@ -305,10 +313,11 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55" alt="anaconda" />
       <br>Anaconda
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="laravel" />
-      <br>Laravel
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=r" width="55" height="55" alt="r" />
+      <br>R
     </td>
+    
   </tr>
 
   <tr>

@@ -213,7 +213,7 @@ I love being able to use the best of technology to help people's lives.
       <br>Webpack
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=adonis" width="55" height="55" alt="adonis" />
+      <img src="https://skillicons.dev/icons?i=adonis" width="50" height="50" alt="adonis" />
       <br>Adonis
     </td>
      <td align="center" width="90">

@@ -256,8 +256,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
+      <br>Next.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
@@ -298,8 +298,8 @@ I love being able to use the best of technology to help people's lives.
       <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
-      <br>Next.js
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
+      <br>Gatsby
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />

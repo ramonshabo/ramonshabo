@@ -192,10 +192,6 @@ I love being able to use the best of technology to help people's lives.
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
-    <!-- <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
@@ -209,16 +205,16 @@ I love being able to use the best of technology to help people's lives.
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
-      <br>Babel
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="55" height="55" />
       <br>Webpack
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=adonis" width="55" height="55" alt="adonis" />
+      <br>Adonis
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="laravel" />

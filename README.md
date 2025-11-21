@@ -350,8 +350,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Jenkins
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />
-      <br>Electron
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
+      <br>Tensorflow
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />

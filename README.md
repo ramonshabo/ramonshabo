@@ -346,8 +346,8 @@ I love being able to use the best of technology to help people's lives.
       <br>Kafka
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Next.js" />
-      <br>Cypress
+      <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins" />
+      <br>Jenkins
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="electron" />

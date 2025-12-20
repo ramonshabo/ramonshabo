@@ -4,7 +4,7 @@
   My Name is Ramon
 </h1>
 <h3 align="left">
-  A passionate Full Stack Developer | Problem Solver | Tech Explorer | Architect of Scalable Solutions
+  Solution Architect | Enterprise Software Engineer, Cloud & System Integration (ERP, MES, Data) | AI/ML Exposure
 </h3>
 <!-- <h3 align="left">
   Interested in AI, MES, ERP & e-commerce systems 1

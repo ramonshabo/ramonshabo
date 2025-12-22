@@ -17,11 +17,11 @@
 
 I love being able to use the best of technology to help people's lives.
 <ul>
-<li>🌍 I'm based in Remote</li>
-<li>🧠 I'm always learning more about Web and Mobile Dev, and now I'm also interested in AI, ML, MES, ERP, and E-commerce</li>
-<li>🤝 I'm open to collaborating on new projects ideas</li>
-<li>🎯 Goal: Deliver the best of technology to everyone</li>
-<li>⚡ Fun fact: I thrive on collaboration — always ready to help, mentor, or contribute where it counts.</li>
+<li>🌍 Remote-based</li>
+<li>🧠 Designing and building scalable web & mobile solutions, ERP, MES, and e-commerce, with exposure to AI/ML </li>
+<li>🤝 Open to collaborating on meaningful project ideas</li>
+<li>🎯 Goal: Delivering impactful, business-driven digital solutions</li>
+<li>⚡ Fun fact: Thrive in collaboration—always happy to help, mentor, or contribute where it matters.</li>
   </ul>
 
 ---

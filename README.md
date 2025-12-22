@@ -18,7 +18,7 @@
 I love being able to use the best of technology to help people's lives.
 <ul>
 <li>🌍 Remote-based</li>
-<li>🧠 Designing and building scalable web & mobile solutions, ERP, MES, and e-commerce, with exposure to AI/ML </li>
+<li>🧠 Designing and building scalable digital solutions for ERP, MES, and e-commerce, with exposure to AI/ML</li>
 <li>🤝 Open to collaborating on meaningful project ideas</li>
 <li>🎯 Goal: Delivering impactful, business-driven digital solutions</li>
 <li>⚡ Fun fact: Thrive in collaboration—always happy to help, mentor, or contribute where it matters.</li>

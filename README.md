@@ -4,7 +4,7 @@
   My Name is Ramon
 </h1>
 <h3 align="left">
-  Lecturer | Solution Architect | Enterprise Software Engineer | Cloud & System Integration | AI/ML Exposure
+  Lecturer | Full Stack Engineer | System Analyst & Software Architect | Project Management | ERP & Data Platforms
 </h3>
 <!-- <h3 align="left">
   Interested in AI, MES, ERP & e-commerce systems 1
